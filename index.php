@@ -20,6 +20,16 @@
           this.musicVolume = 0.00;
           this.musicFadeIn = 4000;
           this.Texts = [
+            "get fucked",
+			"ur probably like 12",
+            "i skid a-lot of shit",
+            "radiant in val godlike at hypixel",
+            "why are you even here",
+            "your special arent you?",
+            "take this site down i dare you lmfao",
+            "you're fucking weird",
+            "why did you click this link",
+            "What goes through your head to stay here?",
             "Have a good time here, ❤️"
           ];
       };
